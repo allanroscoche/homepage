@@ -1,1 +1,1 @@
-export default () => (<div>Ola 31gb97123</div>)
+export default () => (<div>Ola Tais 31gb97123</div>)
