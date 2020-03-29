@@ -1,0 +1,1 @@
+export default () => (<div>Ola 31gb97123</div>)
